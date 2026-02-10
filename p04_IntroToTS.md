@@ -94,34 +94,6 @@ se han estudiado.
 Recuerde que Exercism también utiliza Jest como plataforma de testing para los ejercicios de TS.
 Para cada problema, preste atención a los tests que su código ha de superar y la implementación de los mismos.
 
-### Unit Testing con Jest
-Realice en TypeScript cada uno de los siguientes problemas de
-[Jutge](https://jutge.org/)
-haciendo que la entrada que requieran los programas que solucionan el problema se tome por línea de comandos.
-Para capturar los parámetros de línea de comando ejecutando el programa en `ts-node` pueden seguir usando
-`process.argv`
-
-Haga también que los programas incluyan documentación en formato JSDoc (TypeDoc). 
-Se propone desarrollar una página *índice* desde la que se enlacen las páginas de documentación de cada uno de
-estos programas.
-
-Desarrolle tests unitarios en 
-[Jest](https://jestjs.io/)
-para probar la corrección de cada una de las soluciones.
-Aparte de los tests públicos de Jutge, incluya al menos un test test adicional para comprobar situaciones que
-considere relevantes.
-Si su solución se basa en varias funciones, desarrolle tests para cada una de ellas.
-
-1. [P34279](https://jutge.org/problems/P34279) Add one Second.
-2. [P51126](https://jutge.org/problems/P51126) Intervals (I)
-3. [P33839](https://jutge.org/problems/P33839) Sum of Digits. Para este problema, simplifique la salida de
-modo que ésta se limite a un único número (la suma de los dígitos).
-4. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
-5. [P91173](https://jutge.org/problems/P91173_en) Collatz pseudo-sequences (1)
-6. [P11916](https://jutge.org/problems/P11916_en) Approximation of e. Simplifique la salida del programa para
-que se limite a un solo número en punto flotante (el valor de e).
-7. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
-
 ## TypeDoc
 [TypeDoc](https://typedoc.org/)
 es una generador de documentación para proyectos TypeScript, similar a JsDoc o javadoc.
@@ -163,6 +135,5 @@ sea accesible a través de un servidor web en su máquina virtual de la asignatu
 * [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Jutge web site](https://jutge.org/)
-* [Jest](https://jestjs.io/)
 * [ESLint](https://eslint.org/)
 * [JSDoc](https://jsdoc.app/)
