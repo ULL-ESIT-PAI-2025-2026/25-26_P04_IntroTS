@@ -123,6 +123,10 @@ Para los problemas de Jutge:
 Genere con TypeDoc la documentación en formato HTML para cada uno de estos problemas y haga que dicha documentación 
 sea accesible a través de un servidor web en su máquina virtual de la asignatura.
 
+En TypeDoc se puede generar la documentación utilizando diferentes formatos.
+Utilicen siempre algún formato de documentación que incluya en la misma (en los ficheros HTML) enlaces a 
+los ficheros de código fuente de cada una de las clases, métodos, etc. 
+
 ## Referencias
 * [Exercism](https://exercism.io/)
 * [Introduction to TypeScript](https://github.com/alu0101329888/Introduction-to-TypeScript)
