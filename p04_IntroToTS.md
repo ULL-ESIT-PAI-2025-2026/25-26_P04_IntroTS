@@ -14,8 +14,6 @@ Se señalan a continuación los aspectos más relevantes (la lista no es exhaust
 que se tendrán en cuenta a la hora de evaluar esta práctica:
 * Se valorará la realización de las diferentes tareas que se proponen
 * El alumnado debe ser capaz de resolver problemas tanto en JS como en TS en la plataforma Exercism subiendo sus soluciones a la misma.
-* Ser capaz de desarrollar tests unitarios para sus programas utilizando
-  [Jest](https://jestjs.io/)
 * Acreditar que conoce la herramienta 
   [ESLint](https://eslint.org/)
 y que es capaz de trabajar con la misma en Visual Studio Code.
