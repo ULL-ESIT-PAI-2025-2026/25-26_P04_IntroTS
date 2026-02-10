@@ -1,13 +1,10 @@
-# Práctica 4. Introducción a TypeScript. Unit testing con Jest.
+# Práctica 4. Introducción a TypeScript. TypeDoc.
 ### Factor de ponderación: 5
 
 ### Objetivos
 Los objetivos de esta práctica son:
-* Configurar el entorno de trabajo en la máquina virtual Linux de la asignatura para ejecutar programas en TypeScript.
 * Ser capaz de desarrollar programas simples en TypeScript en el entorno Linux de la VM de la asignatura usando
   `ts-node`
-* Ser capaz de desarrollar y ejecutar test unitarios utilizando
-  [Jest](https://jestjs.io/)
 * Ser capaz de generar documentación para sus programas TypeScript utilizando
   [TypeDoc](https://typedoc.org/)
   y de visualizar dicha documentación en un servidor web

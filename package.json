@@ -1,7 +1,7 @@
 {
   "name": "Práctica 4 de PAI",
   "version": "1.0.0",
-  "description": "Introducción a TS. Unit Testing con Jest. Documentación con TypeDoc",
+  "description": "Introducción a TS. Documentación con TypeDoc",
   "private": true,
   "main": "index.js",
   "scripts": {
