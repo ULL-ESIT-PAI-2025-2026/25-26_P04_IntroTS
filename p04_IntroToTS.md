@@ -75,8 +75,8 @@ Modifique estos ficheros libremente, si le resulta conveniente.
 y realice en él todos los ejercicios que sea capaz, particularmente aquellos que ya haya realizado en JavaScript.
 Del mismo modo que hizo en JS, comience con los problemas más sencillos como **Hello World** o **Two Fer** y progrese
 en este itinerario tanto como le sea posible.
-De la 
-[Ejercicios de TypeScript en Exercism](https://exercism.org/tracks/typescript/exercises)
+De la sección
+[Explore the TypeScript exercises on Exercism](https://exercism.org/tracks/typescript/exercises)
 una vez que haya realizdo algunos de los ejercicios catalogados como fáciles (*Easy*) preste atención a
 algunos de los de dificultad media o alta.
 Tenga en cuenta que por ahora no se le requerirá trabajar con ejercicios que conlleven programación orientada a objetos.
